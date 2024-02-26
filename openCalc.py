@@ -1,3 +1,4 @@
+# Click in start bar and open the Calculator App
 # biblioteca para controle de UI
 import pyautogui as mousePosition
 
