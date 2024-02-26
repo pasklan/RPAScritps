@@ -15,7 +15,10 @@ openBrowser.press('enter')
 openBrowser.sleep(1)
 # type the URL address
 openBrowser.typewrite('https://www.google.com')
-
 # press Enter key
 openBrowser.press('enter')
 openBrowser.sleep(2)
+# search for todays dolar
+openBrowser.typewrite('Dolar hoje')
+openBrowser.press('enter')
+openBrowser.sleep(1)
